@@ -1,0 +1,31 @@
+.button:hover {
+  -fx-background-color: #5e60aa;
+}
+.button:pressed {
+  -fx-background-color: #5e60aa;
+}
+.button {
+  -fx-background-color: #494ca2;
+}
+.MenuButton {
+  -fx-background-color: #494ca2;
+}
+.button {
+  -fx-text-fill: white;
+  -fx-font-family: "Segoe UI Semibold";
+}
+.jfx-tab-pane .tab-selected-line {
+  -fx-stroke: RED;
+}
+
+.jfx-tab-pane .tab-selected-line {
+  -fx-stroke: #4a632a;
+  -fx-stroke-width: 3pt;
+}
+
+.jfx-tab-pane .tab-header-background {
+  -fx-background-color: #494ca2;
+}
+.jfx-tab-pane .tab-header-area .jfx-rippler {
+  -jfx-rippler-fill: rgba(216, 216, 215, 0.842);
+}
